@@ -1,0 +1,41 @@
+{
+  "format": "seven-balls-r4-single-v1",
+  "parameterization": "signed-square-cosine-v1",
+  "target_radius": "9999/20000",
+  "target_radius_squared": "99980001/400000000",
+  "r_interval": [
+    "299/1000",
+    "38401/100000"
+  ],
+  "backend": "gmp",
+  "workers": 12,
+  "sample_requested": null,
+  "allow_partial": false,
+  "leaves": 23494,
+  "splits": 23493,
+  "max_depth": 29,
+  "covered_volume": "1",
+  "unresolved_volume": "0",
+  "checked": 23494,
+  "failures": [],
+  "complete_computational_certificate": true,
+  "data_sha256": "0bdb0d73242d5d3d978b021b9021377b245ebf21ab2f757c7c429630f001aba3",
+  "code_sha256": "abedd2091b73ba7a87f7e04d9490b8c4075e9db179508337746f3bc03b800cf8",
+  "largest_vertex_value": "-530006309055470760000880958573127802462711776492036741564382391/4190874858301977844619715352488999041719715150660894720000000000000000",
+  "largest_checked_radius_squared": "99980001/400000000",
+  "largest_checked_radius_upper_decimal": "0.4999500000",
+  "analytic_radius_squared_bound": "107350418082054063/429496729600000000",
+  "analytic_radius_upper_decimal": "0.4999446664",
+  "analytic_constant_checks": {
+    "small_range_gap": "1002448870162189/1288490188800000000",
+    "Delta_at_r0": "-39033902948798711359071/737869762948382064640000000000000000",
+    "Delta_prime_at_2_over_5": "-295058623994401541943/343597383680000000000",
+    "Delta_second_derivative": "2307121/320000",
+    "cone_squared_radius_gap": "21451072162054063/429496729600000000"
+  },
+  "uniform_all_r_squared_radius_bound": "99980001/400000000",
+  "uniform_all_r_radius_upper_decimal": "0.4999500000",
+  "cpu_seconds": 1106.2167699279971,
+  "wall_seconds": 147.94994934900024,
+  "scope": "Every accepted leaf is checked at its own exact rational squared radius. The uniform all-r bound is emitted only after a complete successful replay. It also uses the manuscript geometric reductions and analytic proofs, with the scalar checks repeated at the reported analytic radius. A sample or unresolved tree never certifies the whole parameter cube."
+}
