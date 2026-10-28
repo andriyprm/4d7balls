@@ -3,7 +3,7 @@
 Computational supplement to the article by A. Arman, A. Bondarenko,
 A. Prymak and D. Radchenko.
 
-**Repository URL to be replaced before publication:**
+**Repository URL:**
 <https://github.com/andriyprm/4d7balls>
 
 The article proves that every subset of four-dimensional Euclidean space
