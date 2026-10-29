@@ -29,7 +29,6 @@ is needed to verify this cube.
 
 | File | Role |
 | --- | --- |
-| `seven_balls.tex`, `seven_balls.pdf` | Article: geometric reductions, analytic covering arguments, and finite covering condition. |
 | `seven_balls_single.py` | Exact verifier and optional numerical finder. Parts I–IV contain the verification routines; Part V contains the numerical search. |
 | `search_certificate.json.gz` | Complete proof data: the subdivision tree, integer centres, and exact rational squared radii. |
 | `VERIFICATION.md` | Parameter formulas, exact interval rules, finite test, data format, analytic constant checks, and scope of the computation. |
