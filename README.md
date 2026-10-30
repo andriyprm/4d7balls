@@ -1,10 +1,7 @@
 # Borsuk number in four dimensions is at most seven
 
-Computational supplement to the article by A. Arman, A. Bondarenko,
+Computational supplement to the article <http://arxiv.org/abs/2610.39078> by A. Arman, A. Bondarenko,
 A. Prymak and D. Radchenko.
-
-**Repository URL:**
-<https://github.com/andriyprm/4d7balls>
 
 The article proves that every subset of four-dimensional Euclidean space
 of diameter one is covered by seven balls of a common diameter strictly
